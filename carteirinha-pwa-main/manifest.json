@@ -1,0 +1,21 @@
+{
+  "name": "Carteirinha Acadêmica (Demo)",
+  "short_name": "Carteirinha",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1f3c88",
+  "theme_color": "#1f3c88",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logoatalho.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logoatalho.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
